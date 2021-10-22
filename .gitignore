@@ -1,0 +1,29 @@
+# system files
+.DS_Store
+
+# External to the repo
+node_modules
+package-lock.json
+composer.lock
+yarn.lock
+yarn-error.log
+
+# Editor directories and files
+.history
+.idea
+.now/
+.nuxt/
+.vagrant
+.vercel/
+.vscode
+coverage/
+dist/
+docs-dist/
+esm/
+*.code-workspace
+*.iml
+*.log
+*.swp
+RELEASE-NOTES.md
+sw.js
+workbox*.js*
